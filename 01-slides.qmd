@@ -1,0 +1,87 @@
+---
+title: "Week 1: Introduction"
+author: "Gabriel Mesevage"
+format: 
+  revealjs:
+    theme: serif
+bibliography: references.bib
+---
+
+## Introduction
+
+-   Names and interests
+
+## Getting help
+
+If you have any issues come talk to me:
+
+-   After class
+-   Office hours: Mondays 3-4pm, Tuesdays 11-12am
+-   Email me gabriel.mesevage\@kcl.ac.uk
+-   Talk to your tutor, talk to your year tutor, talk to the senior tutor, etc.
+
+## How teaching will work
+
+-   Mostly: **you** talk, **I** listen
+
+> "The most basic principle that every teacher should know ...is that the brain learns the thinking it practices, but little else. To have students learn to recognize relevant features and make relevant decisions more like an expert in the field, they must practice doing exactly this."
+>
+> @wieman2019, p. 56
+
+## How teaching will work
+
+-   Sometimes I will lecture but I will try not to do it too much.
+
+-   I want you to talk, so I will cold-call on people
+
+    -   If you can't think of anything on the spot that's fine, it's an invitation to participate not a demand.
+
+## Assignments
+
+### A *formative* essay
+
+-   Write a 'literature review' on a topic of your choice
+-   Guidelines for how to do this on the Keats page.
+-   Get it to me by the *end of reading week* (or before)
+-   This counts for 0% of your grade -- but is good practice
+
+## Assignments
+
+### A 3000 word **summative** essay
+
+-   Detailed guidelines on Keats in Essay Assessment Brief document
+-   Pick one of the questions in the assessment brief
+-   Don't plagiarize yourself
+
+## Thinking about growth
+
+-   What is intensive vs extensive growth?
+
+-   What is so-called 'Schumpeterian' growth?
+
+-   What is so-called 'Smithian' growth?
+
+-   Is there something distinctive about 'modern' economic growth?
+
+## Thinking about growth
+
+> "...if we move simply from saying that everything changed with the onset of industrialization, to saying that nothing really changed because there was always some growth, then we wash all the variation out of global and long-term history. We need to consider more complex dynamics than either a once and-for-all shift from non-growth to growth, or economic growth as a gradual and universal process that occurs everywhere and always. Otherwise, we shall never be able to grasp what really changed with the development of industrialization, or why."
+>
+> @goldstone2002
+
+## Growth and divergence
+
+![](images/clipboard-2878989777.png)
+
+From @allen2011
+
+## Questions
+
+::: incremental
+1.  What are some pitfalls of comparing metrics like GDP-per-capita across time?
+2.  What does the term 'Great Divergence' refer to as used by @allen2011 ?
+3.  What does the @campbell2016 reading tell us about the changing scope of market activity?
+4.  What is the @goldstone2002 argument about the nature of economic growth?
+:::
+
+## References
