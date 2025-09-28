@@ -1,3 +1,3 @@
 # Introduction to Global Economic History, Slides
 
-+ [01-class](01-slides.html)
+This repository hosts the simple slides for the course Introduction to Global Economic History taught at KCL 2025-26.
