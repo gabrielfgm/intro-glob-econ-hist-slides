@@ -52,8 +52,11 @@ If you have any issues come talk to me:
 -   Detailed guidelines on Keats in Essay Assessment Brief document
 -   Pick one of the questions in the assessment brief
 -   Don't plagiarize yourself
+-   100% of grade
 
 ## Thinking about growth
+
+::: incremental
 
 -   What is intensive vs extensive growth?
 
@@ -63,11 +66,11 @@ If you have any issues come talk to me:
 
 -   Is there something distinctive about 'modern' economic growth?
 
+:::
+
 ## Thinking about growth
 
-> "...if we move simply from saying that everything changed with the onset of industrialization, to saying that nothing really changed because there was always some growth, then we wash all the variation out of global and long-term history. We need to consider more complex dynamics than either a once and-for-all shift from non-growth to growth, or economic growth as a gradual and universal process that occurs everywhere and always. Otherwise, we shall never be able to grasp what really changed with the development of industrialization, or why."
->
-> @goldstone2002
+> "...if we move simply from saying that everything changed with the onset of industrialization, to saying that nothing really changed because there was always some growth, then we wash all the variation out of global and long-term history. We need to consider more complex dynamics than either a once and-for-all shift from non-growth to growth, or economic growth as a gradual and universal process that occurs everywhere and always. Otherwise, we shall never be able to grasp what really changed with the development of industrialization, or why" [@goldstone2002].
 
 ## Growth and divergence
 
