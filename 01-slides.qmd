@@ -81,10 +81,13 @@ From @allen2011
 ## Questions
 
 ::: incremental
-1.  What are some pitfalls of comparing metrics like GDP-per-capita across time?
-2.  What does the term 'Great Divergence' refer to as used by @allen2011 ?
+1.  What does @allen2011 think are the main causes of the great divergence?
 3.  What does the @campbell2016 reading tell us about the changing scope of market activity?
 4.  What is the @goldstone2002 argument about the nature of economic growth?
 :::
+
+## Key question
+
+> What are the pittfalls of comparing economic development across time and space?
 
 ## References
