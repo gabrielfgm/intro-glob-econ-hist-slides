@@ -60,6 +60,18 @@ bibliography: references.bib
 
 Dependency ratios in India 1900-2100 from @lee2003, p. 181
 
+## Dependency ratios
+
+::: incremental
+-   Is the rising dependency ratio a problem?
+
+-   Does it imply lower growth rates?
+
+-   Is the slowing of population growth a problem?
+
+-   Does slowing population growth imply reduced growth of income per capita?
+:::
+
 ## The 'positive check' in comparative perspective
 
 ::: incremental
