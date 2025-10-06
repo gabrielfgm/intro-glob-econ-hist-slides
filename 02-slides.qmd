@@ -49,7 +49,7 @@ bibliography: references.bib
 
 ## Groupwork question
 
-> Are children better though of as a luxury or an investment?
+> Are children better thought of as a luxury or an investment?
 
 -   How has this changed over time?
 -   Does it matter for the future path of population?
