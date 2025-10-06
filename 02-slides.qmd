@@ -1,0 +1,91 @@
+---
+title: "Week 2: Malthus and the Demographic Transition"
+author: "Gabriel Mesevage"
+format: 
+  revealjs:
+    theme: serif
+bibliography: references.bib
+---
+
+## The demographic transition
+
+![@lee2003, p. 168](images/clipboard-2369442562.png)
+
+## Demography: Basic Concepts
+
+::: {.incremental .r-fit-text}
+-   What is life-expectancy? $e(0)$? $e(15)$?
+
+-   What is the 'total fertility rate' (TFR)?
+
+-   What are 'mortality rates'?
+:::
+
+## Malthus: terminology
+
+> "...Cao (2001) interprets changes in Chinese population in the eighteenth and especially nineteenth centuries almost entirely in terms of the Malthusian positive check, emphasizing the frequency and intensity of wars, famines, and epidemics..." @bengtsson2004, p. 62
+
+::: incremental
+-   How would you describe a 'Malthusian demographic regime'?
+-   What is the **'positive check'** on population? What is the **'preventive check'**?
+:::
+
+## The demographic transition
+
+::::: columns
+::: {.column width="70%"}
+![](images/clipboard-3724581764.png){width="100%"}
+:::
+
+::: {.column width="30%"}
+-   Describe the DT
+-   **What is the role of women's social and economic status in explaining the DT**?
+:::
+:::::
+
+## Demography, development and disease?
+
+> "The interaction of nutrition and infections, often referred to as the synergy, is well understood today. All infections, regardless of the agent, affect nutritional status by reducing appetite, worsening the quality of diet ingested, increasing metabolic loss of nutrients, and raising metabolic needs." @bengtsson2004, p. 42
+
+## Groupwork question
+
+> Are children better though of as a luxury or an investment?
+
+-   How has this changed over time?
+-   Does it matter for the future path of population?
+
+## The dependency ratio
+
+![](images/clipboard-2259228287.png)
+
+Dependency ratios in India 1900-2100 from @lee2003, p. 181
+
+## The 'positive check' in comparative perspective
+
+::: incremental
+-   Why might the positive check be 'selective'?
+-   Why might it be 'indiscriminate'?
+-   Should this vary by socio-economic status? By gender? By social context?
+:::
+
+## The 'positive check' in comparative perspective
+
+::::: columns
+::: {.column width="50%"}
+![](images/clipboard-2787421178.png)
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-171926075.png)
+:::
+:::::
+
+-   How do we interpret these tables?
+
+## Why might grain price increases *decrease* mortality in select socio-economic groups?
+
+![](images/clipboard-1070457800.png)
+
+@bengtsson2004, p. 49
+
+## Works cited
