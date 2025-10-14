@@ -1,0 +1,163 @@
+---
+title: "Agricultural Revolutions"
+author: "Gabriel Mesevage"
+format: 
+  revealjs:
+    theme: default
+    slide-level: 2
+    chalkboard: true
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+## Agricultural Revolution & Industrialisation
+
+-   How and why could agrarian changes leading to increased
+    productivity?
+-   How and why would agrarian changes leading to urban
+    industrialisation?
+-   Is there an inherent symbiotic relationship between agrarian changes
+    and urban growth / industrialisation?
+
+## One approach: the Lewis model (1954)
+
+::::: columns
+::: {.column width="30%"}
+![](images/clipboard-3816675993.png)
+:::
+
+::: {.column width="70%"}
+-   Nobel Prize in Economics, 1979
+-   Caribbean economist, influential economic adviser
+-   "Economic Development with Unlimited Supplies of Labour", *The
+    Manchester School*, 1954.
+    -   A 'dual sector' model of development
+:::
+:::::
+
+## The Dual Sector Model
+
+-   The Model explains how economies transform and grow
+    -   Two sectors
+        -   a traditional sector where *marginal wage* $\approx 0$
+        -   a modern sector
+-   The movement of labour from the traditional sector to the modern
+    sector is what drives economic growth and development.
+
+## The Dual Sector Model
+
+::::: columns
+::: {.column width="50%"}
+**Agricultural sector is characterised by:**
+
+-   very low marginal wages (what does this mean?)
+-   abundance of labour (or labourers? what is the diff?)
+-   often a family-oriented or 'informal' production process
+-   examples?
+:::
+
+::: {.column width="50%"}
+**Modern manufacturing sector is defined by:**
+
+-   higher wages
+-   higher marginal productivity
+-   demand for more workers
+-   formalized labour markets
+:::
+:::::
+
+## Historical Evidence: England: Labour Force Shares (%)
+
+![](images/clipboard-2296339256.png)
+
+*Source*: @crafts2021, Table 6
+
+## Sectoral Shares, England & Great Britain
+
+![](images/clipboard-1619741872.png)
+
+*Source*: @broadberry2012, p. 344.
+
+## Sectoral Shares in Many Countries
+
+![](images/clipboard-1656035103.png)
+
+*Source*: @internat
+
+## How might this have happened? The case of English Enclosures
+
+> Based on today's reading, do you think enclosure serves as an
+> explanation for the transfer of labor from agriculture to industry?
+> Why or why not?
+
+## Measuring historical agriculture
+
+@campbell1993 use 3 kinds of sources:
+
+::::: columns
+::: {.column width="40%"}
+-   "medieval modern account rolls"
+
+-   "early modern probate inventories"
+
+-   "nineteenth-century agricultural statistics"
+:::
+
+::: {.column width="60%"}
+![](images/clipboard-1512461101.png)
+:::
+:::::
+
+## What do manorial accounts look like?
+
+![](images/clipboard-3235179246.png)
+
+-   Completely impenetrable to me!
+
+## Better in translation?
+
+::::: columns
+::: {.column}
+-   take a minute in groups to work through some of the examples in the
+    document on Keats
+
+-   How easy is this to code?
+
+-   How error-prone?
+:::
+
+::: {.column}
+![](images/clipboard-3691733807.png)
+:::
+:::::
+
+## When does measured productivity change and why?
+
+::::: columns
+
+::: {.column width="50%"}
+
+![](images/clipboard-1388505907.png)
+
+:::
+
+::: {.column width="50%"}
+
+> "...changes in yields per acre cannot be equated directly with changes in farm output or with changes agricultural productivity as a whole" @campbell1993, p. 67.
+
+- Why?
+
+:::
+
+:::::
+
+*Source*: @campbell1993, Table 5
+
+## Land, Labor and Productivity
+
+> "[breaking the correlation between population and food prices] reflects the marriage of an effective technology to an appropriate farm structure, which together were capable of responding to rising demand by **raising the productivity of land without sacrificing the productivity of labour**. To understand how this marriage came about shifts attention **from the forces of production to the relations of production**. It was **institutions and markets** which provided the crucial link between land and labour productivity and, hence, the overall productivity of the agricultural sector"  [@campbell1993, p. 100].
+
+
+## Works Cited
