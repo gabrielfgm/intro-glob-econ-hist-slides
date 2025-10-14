@@ -14,9 +14,9 @@ bibliography: references.bib
 
 ## Agricultural Revolution & Industrialisation
 
--   How and why could agrarian changes leading to increased
+-   How and why could agrarian changes lead to increased
     productivity?
--   How and why would agrarian changes leading to urban
+-   How and why would agrarian changes lead to urbananization and
     industrialisation?
 -   Is there an inherent symbiotic relationship between agrarian changes
     and urban growth / industrialisation?
@@ -67,6 +67,20 @@ bibliography: references.bib
 -   formalized labour markets
 :::
 :::::
+
+## The Dual Sector Model
+
+Key points
+
+::: {.incremental}
+
+- If marginal wage is ~0 what does this labor earn?
+- "zero marginal product" vs. "disguised unemployment" framing
+- Need not be 'agriculture' and 'industrial' could be informal/formal, peasant farm/commercial farm, etc.
+- Need to distinguish between labor and laborers
+- Model outcome is higher savings/investment rate
+
+:::
 
 ## Historical Evidence: England: Labour Force Shares (%)
 
