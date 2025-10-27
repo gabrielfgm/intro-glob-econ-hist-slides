@@ -68,7 +68,7 @@ bibliography: references.bib
 ## Other epidemiological catastrophes
 
 ::::: columns
-::: {.column}
+::: column
 -   Infectious disease e.g. Cholera
 
 -   The Columbian exchange:
@@ -78,7 +78,7 @@ bibliography: references.bib
     -   Enormous population collapse: disease + conquest
 :::
 
-::: {.column}
+::: column
 ![](images/clipboard-2693606813.png)
 
 *Source*: @alfani2017, Figure 1
