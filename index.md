@@ -5,3 +5,4 @@
 + [03-class](03-slides.html)
 + [04-class](04-slides.html)
 + [05-class](05-slides.html)
++ [06-class](06-slides.html)
