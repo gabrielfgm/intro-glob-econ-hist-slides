@@ -13,13 +13,38 @@ bibliography: references.bib
 echo: false
 ---
 
-## Key questions
+## Key questions about the British IR
 
 ::: incremental
 -   Why in the 18th century?
 -   Why in Britain?
 -   Why in Europe?
 :::
+
+## Some early views {.smaller}
+
+**Geography**
+
+-   Britain was an island (security) [@obrien2011] with easy access to
+    coal [@pomeranz2002]
+-   Some comparative evidence that access to coal mattered for growth
+    [@fernihough2021]
+
+. . .
+
+**Slavery & Imperialism**
+
+-   The **Williams Thesis**: an influential argument for the importance
+    of slave-trade and broader atlantic trade [@williams1944]
+
+-   Two mechanisms (at least):
+
+    1.   Direct demand/investment channel – harder to argue because
+        small [@mokyr1977] but see [@berg2021]
+
+    2.  Indirect linkages channel: institutions and industries
+        [@berg2013; @berg2021; @zahedieh2021; @zahedieh2021a;
+        @inikori1987]
 
 ## Allen on Why the Industrial Revolution was British {.smaller}
 
@@ -414,7 +439,7 @@ style G fill:#93a1a1
 
 Mokyr's account is **not comparative**
 
-## Critiques of Mokyr  {.smaller}
+## Critiques of Mokyr {.smaller}
 
 ### Atlantic economy critiques
 
@@ -438,16 +463,17 @@ Mokyr's account is **not comparative**
 
 > Is Allen's focus on the incentives to adopt technology the right one?
 
-. . . 
+. . .
 
-> Does Mokyr's approach convince us that the industrial revolution would not have occurred without the Industrial Enlightenment?
+> Does Mokyr's approach convince us that the industrial revolution would
+> not have occurred without the Industrial Enlightenment?
 
-. . . 
+. . .
 
-> Does Humphries depiction of regular hunger and immiseration
-matter for Allen's argument? Is her criticism convincing?
+> Does Humphries depiction of regular hunger and immiseration matter for
+> Allen's argument? Is her criticism convincing?
 
-. . . 
+. . .
 
 > Are Berg & Hudson's objections to Mokyr convincing?
 
