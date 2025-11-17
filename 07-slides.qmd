@@ -203,7 +203,7 @@ to become global.
 
 -   Developing ideas presented in @blattman2007
 
-## The key idea:  {.smaller}
+## The key idea: {.smaller}
 
 > "...globalization fostered de-industrialization (e.g. specialization)
 > in the periphery so that, according to modern theory, growth rates in
@@ -219,14 +219,14 @@ to become global.
 -   If you concentrate on a small set of exports you have a lot of
     income volatility! This is bad for growth
 
-## 4 Concepts work knowing:
+## 4 Concepts worth knowing:
 
 -   Net barter terms-of-trade
 -   Dutch disease
 -   Commodity lottery
 -   Engels Law
 
-## Key Concepts  {.smaller}
+## Key Concepts {.smaller}
 
 #### Net Barter Terms of Trade
 
@@ -248,7 +248,7 @@ $$
 -   It is **the purchasing power of exports**: It tells us about how
     many bundles of goods you can purchase with your exports
 
-## Key Concepts  {.smaller}
+## Key Concepts {.smaller}
 
 #### Dutch disease
 
@@ -263,7 +263,7 @@ for a problem that can arise with a high-value export sector
 3.  Currency may rise because of foreign earnings (if floating)
 4.  Non-tradeable services rise in price
 
-## Key Concepts  {.smaller}
+## Key Concepts {.smaller}
 
 #### The Commodity Lottery
 
@@ -281,7 +281,7 @@ Coined by Carlos Diaz-Alejandro and describes the process whereby:
     French demonetization of silver in 1873) can have a huge impact on a
     country's income.
 
-## Key Concepts  {.smaller}
+## Key Concepts {.smaller}
 
 #### Engel's Law
 
@@ -293,8 +293,8 @@ that:
 -   Share of consumption dedicated to primary products falls as income
     rises
 
--    So if you focus your production on primary products your income
-    will grow more slowly than the overall growth rate
+-   So if you focus your production on primary products your income will
+    grow more slowly than the overall growth rate
 
 -   Applied to countries, this suggests countries specialized in primary
     products will grow more slowly than the world as a whole (growing
