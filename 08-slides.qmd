@@ -134,6 +134,23 @@ given to cattle.
 -   What are the problems with comparing across time periods?
 :::
 
+## What are we trying to measure?  {.smaller}
+
+The standard object of interest to quantitative social scientists is the
+*average causal effect* (ACE) or *average treatment effect* (ATE).
+
+-   Why an average?
+
+-   Does the fact that it's an average matter? (hint: yes)
+
+This is a **counter-factual quantity**:
+
+-   on average, what would your chance of dying be if you lived in a
+    district with more vultures?
+
+-   What would your probability of having a job be if you lived in a
+    district with a higher minimum wage?
+
 ## Comparing across time and space: differences-in-differences  {.smaller}
 
 > "Using our habitat suitability measures, we then compare districts
