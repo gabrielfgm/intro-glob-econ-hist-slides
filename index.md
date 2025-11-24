@@ -7,3 +7,4 @@
 + [05-class](05-slides.html)
 + [06-class](06-slides.html)
 + [07-class](07-slides.html)
++ [08-class](08-slides.html)
