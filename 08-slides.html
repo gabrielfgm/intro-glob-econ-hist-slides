@@ -461,16 +461,21 @@ Gabriel Mesevage
 </section>
 <section id="what-are-we-trying-to-measure" class="slide level2 smaller">
 <h2>What are we trying to measure?</h2>
-<p>The standard object of interest to quantitative social scientists is the <em>average causal effect</em> (ACE) or <em>average treatment effect</em> (ATE).</p>
+<p>The standard object of interest to quantitative social scientists is the <em>average causal effect</em> (ACE) or <em>average treatment effect</em> (ATE) over some population.</p>
 <ul>
-<li><p>Why an average?</p></li>
-<li><p>Does the fact that it’s an average matter? (hint: yes)</p></li>
+<li>Why an average?</li>
 </ul>
-<p>This is a <strong>counter-factual quantity</strong>:</p>
+<div class="fragment">
+<p>Individual causal effect (ICE) cannot be observed: <span class="math inline">\(ICE_i = y_i(1) - y_i(0)\)</span></p>
+<p>We observe: <span class="math inline">\(y_i = T_i y_i(1) + (1 - T_i) y_i(0)\)</span></p>
+</div>
+<div class="fragment">
+<p>ATE is a <strong>counter-factual quantity</strong>:</p>
 <ul>
 <li><p>on average, what would your chance of dying be if you lived in a district with more vultures?</p></li>
 <li><p>What would your probability of having a job be if you lived in a district with a higher minimum wage?</p></li>
 </ul>
+</div>
 </section>
 <section id="comparing-across-time-and-space-differences-in-differences" class="slide level2 smaller">
 <h2>Comparing across time and space: differences-in-differences</h2>
@@ -486,6 +491,56 @@ Gabriel Mesevage
 </ul>
 </section>
 <section id="differences-in-differences-minimum-wage-example" class="slide level2 smaller">
+<h2>Differences-in-differences: minimum wage example</h2>
+<div class="columns">
+<div class="column">
+<p>In 1990s <span class="citation" data-cites="card1993">Card and Krueger (<a href="#/works-cited" role="doc-biblioref" onclick="">1993</a>)</span> popularized DiD approaches to causal estimation using a simple minimum wage example <span class="citation" data-cites="cunningham2021">(<a href="#/works-cited" role="doc-biblioref" onclick="">Cunningham 2021</a>)</span>.</p>
+<p>Setting:</p>
+<ul>
+<li><p>In 1992 minimum wage in PA and NJ is both $4.25</p></li>
+<li><p>In November 1992 NJ raises minimum wage to $5.05</p></li>
+<li><p><span class="citation" data-cites="card1993">Card and Krueger (<a href="#/works-cited" role="doc-biblioref" onclick="">1993</a>)</span> survey ~400 fast food stores across both states before and after minimum wage hike</p></li>
+</ul>
+</div><div class="column">
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>PA</th>
+<th>NJ</th>
+<th>PA - NJ</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Emp. Pre</strong></td>
+<td>23.3</td>
+<td>20.44</td>
+<td>-2.89</td>
+</tr>
+<tr class="even">
+<td><strong>Emp. Post</strong></td>
+<td>21.147</td>
+<td>21.03</td>
+<td>-0.14</td>
+</tr>
+<tr class="odd">
+<td><strong>Post - Pre</strong></td>
+<td>-2.16</td>
+<td>0.59</td>
+<td><strong>2.75</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><p>Employment per store in PA falls from Pre to Post</p></li>
+<li><p>Employment per store in NJ rises from Pre to Post</p></li>
+<li><p><strong>ACE</strong> <strong>for NJ stores is +2.75 employees</strong></p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="differences-in-differences-minimum-wage-example-1" class="slide level2 smaller">
 <h2>Differences-in-differences: minimum wage example</h2>
 
 <img data-src="images/clipboard-3237212093.png" class="r-stretch"><ul>
@@ -511,6 +566,12 @@ Gabriel Mesevage
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-campbell2010" class="csl-entry" role="listitem">
 Campbell, Bruce. 2010. <span>“Nature as Historical Protagonist: Environment and Society in Pre-Industrial England.”</span> <em>Economic History Review</em> 63 (2): 281–314.
+</div>
+<div id="ref-card1993" class="csl-entry" role="listitem">
+Card, David, and Alan Krueger. 1993. <span>“Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania.”</span> Cambridge, MA. <a href="https://doi.org/10.3386/w4509">https://doi.org/10.3386/w4509</a>.
+</div>
+<div id="ref-cunningham2021" class="csl-entry" role="listitem">
+Cunningham, Scott. 2021. <em>Causal Inference</em>. Yale University Press. <a href="https://doi.org/10.2307/j.ctv1c29t27">https://doi.org/10.2307/j.ctv1c29t27</a>.
 </div>
 <div id="ref-frank" class="csl-entry" role="listitem">
 Frank, Eyal G, and Anant Sudarshan. n.d. <span>“The Social Costs of Keystone Species Collapse: Evidence From The Decline of Vultures in India.”</span>

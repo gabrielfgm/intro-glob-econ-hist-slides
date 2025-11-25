@@ -134,16 +134,24 @@ given to cattle.
 -   What are the problems with comparing across time periods?
 :::
 
-## What are we trying to measure?  {.smaller}
+## What are we trying to measure? {.smaller}
 
 The standard object of interest to quantitative social scientists is the
-*average causal effect* (ACE) or *average treatment effect* (ATE).
+*average causal effect* (ACE) or *average treatment effect* (ATE) over
+some population.
 
 -   Why an average?
 
--   Does the fact that it's an average matter? (hint: yes)
+. . .
 
-This is a **counter-factual quantity**:
+Individual causal effect (ICE) cannot be observed:
+$ICE_i = y_i(1) - y_i(0)$
+
+We observe: $y_i = T_i y_i(1) + (1 - T_i) y_i(0)$
+
+. . .
+
+ATE is a **counter-factual quantity**:
 
 -   on average, what would your chance of dying be if you lived in a
     district with more vultures?
@@ -151,7 +159,7 @@ This is a **counter-factual quantity**:
 -   What would your probability of having a job be if you lived in a
     district with a higher minimum wage?
 
-## Comparing across time and space: differences-in-differences  {.smaller}
+## Comparing across time and space: differences-in-differences {.smaller}
 
 > "Using our habitat suitability measures, we then compare districts
 > that had a significant vulture presence with those that did not,
@@ -166,7 +174,39 @@ This is a **counter-factual quantity**:
 
     -   Groups would *otherwise move in parallel*
 
-## Differences-in-differences: minimum wage example  {.smaller}
+## Differences-in-differences: minimum wage example {.smaller}
+
+::::: columns
+::: column
+In 1990s @card1993 popularized DiD approaches to causal estimation using
+a simple minimum wage example [@cunningham2021].
+
+Setting:
+
+-   In 1992 minimum wage in PA and NJ is both \$4.25
+
+-   In November 1992 NJ raises minimum wage to \$5.05
+
+-   @card1993 survey \~400 fast food stores across both states before
+    and after minimum wage hike
+:::
+
+::: column
+|                | PA     | NJ    | PA - NJ  |
+|----------------|--------|-------|----------|
+| **Emp. Pre**   | 23.3   | 20.44 | -2.89    |
+| **Emp. Post**  | 21.147 | 21.03 | -0.14    |
+| **Post - Pre** | -2.16  | 0.59  | **2.75** |
+
+-   Employment per store in PA falls from Pre to Post
+
+-   Employment per store in NJ rises from Pre to Post
+
+-   **ACE** **for NJ stores is +2.75 employees**
+:::
+:::::
+
+## Differences-in-differences: minimum wage example {.smaller}
 
 ![](images/clipboard-3237212093.png)
 
